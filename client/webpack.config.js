@@ -32,7 +32,7 @@ module.exports = () => {
         display: "standalone",
         icons: [
           {
-            src: path.resolve("/src/favicon.ico"),
+            src: path.resolve("favicon.ico"),
             size: [72, 96, 128, 144, 152, 192, 384, 512],
             destination: path.join("src", "icons")
           }

@@ -1,0 +1,51 @@
+{
+  "icons": [
+    {
+      "src": "/src/icons/icon_512x512.746db68de78df5d3feaeac6b6c757b2a.ico",
+      "sizes": "512x512",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/src/icons/icon_384x384.746db68de78df5d3feaeac6b6c757b2a.ico",
+      "sizes": "384x384",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/src/icons/icon_192x192.746db68de78df5d3feaeac6b6c757b2a.ico",
+      "sizes": "192x192",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/src/icons/icon_152x152.746db68de78df5d3feaeac6b6c757b2a.ico",
+      "sizes": "152x152",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/src/icons/icon_144x144.746db68de78df5d3feaeac6b6c757b2a.ico",
+      "sizes": "144x144",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/src/icons/icon_128x128.746db68de78df5d3feaeac6b6c757b2a.ico",
+      "sizes": "128x128",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/src/icons/icon_96x96.746db68de78df5d3feaeac6b6c757b2a.ico",
+      "sizes": "96x96",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/src/icons/icon_72x72.746db68de78df5d3feaeac6b6c757b2a.ico",
+      "sizes": "72x72",
+      "type": "image/vnd.microsoft.icon"
+    }
+  ],
+  "name": "Text-Editor",
+  "short_name": "JATE",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
